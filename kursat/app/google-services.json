@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567676952961",
+    "firebase_url": "https://wat-projesi.firebaseio.com",
+    "project_id": "wat-projesi",
+    "storage_bucket": "wat-projesi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567676952961:android:43bf8f00906fc60c0c4880",
+        "android_client_info": {
+          "package_name": "com.berkaycayli.wat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567676952961-2r2b353u5cqqrpjk96k7pk3hpf8ms8im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHLr9HI5JsO46JmD6bEQpZdeVg1wsT6xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567676952961-2r2b353u5cqqrpjk96k7pk3hpf8ms8im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
